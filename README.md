@@ -2,9 +2,9 @@
 
 **NeurIPS 2026** · [Conference page](https://neurips.cc/virtual/2026/loc/sydney/poster/148787)
 
-**Jiajun Shen<sup>†</sup>, Yonglin Wu<sup>†</sup>, Ruonan Yu, Xinchao Wang**
+**Jiajun Shen<sup>†</sup>, Yonglin Wu<sup>†</sup>, Ruonan Yu, Xinchao Wang<sup>*</sup>**
 
-National University of Singapore · <sup>†</sup> Equal contribution
+National University of Singapore · <sup>†</sup> Equal contribution · <sup>*</sup> Corresponding author.
 
 > **In one sentence:** MDA-DD distills image–text data using a queue of models at different training stages, asymmetric dual projection, and second-order cross-modal moment matching.
 
