@@ -16,9 +16,6 @@ The paper's experiments used one NVIDIA RTX 5090 (32 GB). The provided scripts u
 conda activate MDA-DD
 pip install -r requirements.txt
 ```
-
-The current `requirements.txt` contains conflicting duplicate version pins, so installation needs to be checked before a public release. Pretrained NFNet and BERT weights are downloaded on first use.
-
 ## 🗂️ Data preparation
 
 Download the [Flickr30K images](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset) and [MS-COCO 2014 images](https://cocodataset.org/#download). The code expects these paths relative to the repository root:
